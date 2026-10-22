@@ -1,0 +1,5 @@
+Proveedor: Servicios Integrales del Norte SAS
+NIT: 901234567-2
+Subtotal: 1800000
+Total: 1800000
+Moneda: COP

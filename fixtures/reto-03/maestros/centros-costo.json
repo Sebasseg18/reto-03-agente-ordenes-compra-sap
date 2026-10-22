@@ -1,0 +1,4 @@
+[
+  {"centro_costo":"CC-100","subareas":["TI","INFRAESTRUCTURA","SEGURIDAD"],"aprobadores":[{"email":"lider.ti@ejemplo.com","tope":10000000},{"email":"director.finanzas@ejemplo.com","tope":50000000}]},
+  {"centro_costo":"CC-200","subareas":["ADMINISTRACION","COMPRAS"],"aprobadores":[{"email":"lider.admin@ejemplo.com","tope":5000000}]}
+]

@@ -1,0 +1,4 @@
+[
+  {"codigo":"Z030","descripcion":"Pago a 30 días","dias":30},
+  {"codigo":"Z045","descripcion":"Pago a 45 días","dias":45}
+]

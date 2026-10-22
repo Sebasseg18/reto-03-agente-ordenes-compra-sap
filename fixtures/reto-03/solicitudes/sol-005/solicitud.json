@@ -1,0 +1,16 @@
+{
+  "solicitud_id": "SOL-005",
+  "solicitante": "Área solicitante",
+  "proveedor_nombre": "Servicios Integrales del Norte SAS",
+  "descripcion": "Servicio de mantenimiento",
+  "centro_costo": "CC-200",
+  "subarea": "ADMINISTRACION",
+  "cantidad": 1,
+  "valor_unitario": 1800000,
+  "valor_total": 1800000,
+  "moneda": "COP",
+  "fecha_solicitud": "2026-10-20",
+  "proveedor_nit": "901234567-2",
+  "indicador_iva": "C1",
+  "condiciones_pago": "Z045"
+}

@@ -1,0 +1,16 @@
+{
+  "solicitud_id": "SOL-001",
+  "solicitante": "Área solicitante",
+  "proveedor_nombre": "Tecnología Andina SAS",
+  "descripcion": "Licencias de software empresarial",
+  "centro_costo": "CC-100",
+  "subarea": "TI",
+  "cantidad": 10,
+  "valor_unitario": 250000,
+  "valor_total": 2500000,
+  "moneda": "COP",
+  "fecha_solicitud": "2026-10-20",
+  "proveedor_nit": "900123456-1",
+  "indicador_iva": "C1",
+  "condiciones_pago": "Z030"
+}

@@ -1,0 +1,8 @@
+Proveedor: Tecnología Andina SAS
+NIT: 900123456-1
+Ítems: Licencias de software
+Subtotal: 2500000
+IVA: 475000
+Total: 2500000
+Moneda: COP
+Validez: 2026-11-20

@@ -1,0 +1,11 @@
+{
+  "id": "COR-005",
+  "de": "solicitante@ejemplo.com",
+  "asunto": "Solicitud de compra",
+  "fecha": "2026-10-20",
+  "cuerpo": "Solicitud de compra para revisión administrativa.",
+  "adjuntos": [
+    "solicitud.xlsx",
+    "cotizacion.pdf"
+  ]
+}

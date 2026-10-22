@@ -1,0 +1,16 @@
+{
+  "solicitud_id": "SOL-002",
+  "solicitante": "Área solicitante",
+  "proveedor_nombre": "Proveedor Fantasma SAS",
+  "descripcion": "Compra de monitores",
+  "centro_costo": "CC-100",
+  "subarea": "TI",
+  "cantidad": 2,
+  "valor_unitario": 700000,
+  "valor_total": 1400000,
+  "moneda": "COP",
+  "fecha_solicitud": "2026-10-20",
+  "proveedor_nit": "999999999-9",
+  "indicador_iva": "C1",
+  "condiciones_pago": "Z030"
+}

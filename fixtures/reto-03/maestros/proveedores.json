@@ -1,0 +1,5 @@
+[
+  {"codigo_sap":"100001","nit":"900123456-1","nombre":"Tecnología Andina SAS","condiciones_pago_default":"Z030","indicador_iva_default":"C1","activo":true},
+  {"codigo_sap":"100002","nit":"901234567-2","nombre":"Servicios Integrales del Norte SAS","condiciones_pago_default":"Z045","indicador_iva_default":"C1","activo":true},
+  {"codigo_sap":"100003","nit":"800765432-1","nombre":"Papelería Central SAS","condiciones_pago_default":"Z030","indicador_iva_default":"C0","activo":true}
+]

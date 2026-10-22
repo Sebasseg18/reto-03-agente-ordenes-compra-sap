@@ -1,0 +1,5 @@
+Proveedor: Papelería Central SAS
+NIT: 800765432-1
+Subtotal: 300000
+Total: 300000
+Moneda: COP

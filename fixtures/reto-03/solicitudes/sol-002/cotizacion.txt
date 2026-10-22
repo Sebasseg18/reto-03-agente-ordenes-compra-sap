@@ -1,0 +1,5 @@
+Proveedor: Proveedor Fantasma SAS
+NIT: 999999999-9
+Subtotal: 1400000
+Total: 1400000
+Moneda: COP

@@ -1,0 +1,4 @@
+[
+  {"codigo":"C1","descripcion":"IVA general 19%","tasa":19},
+  {"codigo":"C0","descripcion":"No gravado / excluido","tasa":0}
+]

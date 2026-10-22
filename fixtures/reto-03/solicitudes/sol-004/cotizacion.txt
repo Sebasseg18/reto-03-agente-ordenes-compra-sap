@@ -1,0 +1,5 @@
+Proveedor: Tecnología Andina SAS
+NIT: 900123456-1
+Subtotal: 1100000
+Total: 1100000
+Moneda: COP

@@ -1,0 +1,14 @@
+{
+  "solicitud_id": "SOL-006",
+  "solicitante": "Área solicitante",
+  "proveedor_nombre": "Papelería Central SAS",
+  "descripcion": "Papelería y útiles de oficina",
+  "centro_costo": "CC-200",
+  "subarea": "COMPRAS",
+  "cantidad": 20,
+  "valor_unitario": 15000,
+  "valor_total": 300000,
+  "moneda": "COP",
+  "fecha_solicitud": "2026-10-20",
+  "proveedor_nit": "800765432-1"
+}

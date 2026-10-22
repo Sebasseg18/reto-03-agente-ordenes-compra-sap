@@ -1,0 +1,16 @@
+{
+  "solicitud_id": "SOL-003",
+  "solicitante": "Área solicitante",
+  "proveedor_nombre": "Tecnología Andina SAS",
+  "descripcion": "Equipos de red",
+  "centro_costo": "CC-100",
+  "subarea": "TI",
+  "cantidad": 1,
+  "valor_unitario": 3200000,
+  "valor_total": 3200000,
+  "moneda": "COP",
+  "fecha_solicitud": "2026-10-20",
+  "proveedor_nit": "900123456-1",
+  "indicador_iva": "C1",
+  "condiciones_pago": "Z030"
+}
